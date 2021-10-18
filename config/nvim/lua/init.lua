@@ -1,0 +1,13 @@
+require('config')
+require('settings')
+require('plugins')
+require('keymappings')
+
+require('lsp/config')
+require('lsp/bash')
+require('lsp/css')
+require('lsp/graphql')
+require('lsp/html')
+require('lsp/json')
+require('lsp/lua')
+require('lsp/tsserver')
