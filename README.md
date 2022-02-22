@@ -3,7 +3,7 @@
 
 This is mediumgoal's (umtdemr) terminal setup. 
 
-**Warning**: Do not use blindly my settings. I copied my settings from someone else's settings. For neovim check out [Takuya's dotfiles](https://github.com/craftzdog/dotfiles-public)   
+**Warning**: Do not use blindly my settings. I copied my settings from someone else's settings. For neovim config that I copied please check out [Takuya's dotfiles](https://github.com/craftzdog/dotfiles-public)   
 
 
 ## Content
