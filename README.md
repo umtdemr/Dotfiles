@@ -26,7 +26,6 @@ In macos, I've started to use iTerm2 instead of alacritty. But I suggest alacrit
 
 I'm using nightly neo vim with [LSP features.](https://github.com/neovim/nvim-lspconfig). For more information about my neovim configuration please check out [neovim folder](https://github.com/umtdemr/Dotfiles/tree/master/.config/nvim)
 
-* Theme: catpuccin
 
 ## ZSH
 
