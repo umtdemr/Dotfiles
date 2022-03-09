@@ -1,4 +1,3 @@
-
 # Neovim
 
 This is my neovim configuration. I inspired a lot from [lunar vim from stratch series](https://github.com/LunarVim/Neovim-from-scratch). I highly recommend to check it out.
@@ -28,5 +27,5 @@ For full plugin information please check out [plugins.lua](https://github.com/um
 
 
 ## TO DO
-- [ ] Configure keymaps more for renaming, code action etc.
+- [ ] Configure keymaps for renaming, code action etc.
 - [ ] Lsp saga may be useful for better UI

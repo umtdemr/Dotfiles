@@ -20,7 +20,7 @@ local setup = {
       windows = true, -- default bindings on <c-w>
       nav = true, -- misc bindings to work with windows
       z = true, -- bindings for folds, spelling and others prefixed with z
-      g = false, -- bindings for prefixed with g
+      g = true, -- bindings for prefixed with g
     },
   },
   -- add operators that will trigger motion and text object completion
