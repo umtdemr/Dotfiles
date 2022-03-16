@@ -27,7 +27,7 @@ In macos, I've started to use [iTerm2](https://iterm2.com/ "iTerm2's official pa
 
 ![Neovim preview](./assets/neovim.png)
 
-I'm using nightly neo vim with [LSP features.](https://github.com/neovim/nvim-lspconfig). For more information about my neovim configuration please check out [neovim folder](https://github.com/umtdemr/Dotfiles/tree/master/.config/nvim)
+I'm using nightly neo vim with [LSP](https://github.com/neovim/nvim-lspconfig) features. For more information about my neovim configuration please check out [neovim folder](https://github.com/umtdemr/Dotfiles/tree/master/.config/nvim)
 
 
 ## ZSH
