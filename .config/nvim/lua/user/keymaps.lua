@@ -63,7 +63,7 @@ keymap("x", "<A-k>", ":move '<-2<CR>gv-gv", opts)
 
 -- Splitting window --
 keymap("n", "sv", ":vsplit<CR>", opts)  -- Split vertical
-keymap("n", "sh", ":vsplit<CR>", opts)  -- Split horizontal
+keymap("n", "sh", ":split<CR>", opts)  -- Split horizontal
 
 -- Terminal --
 -- Better terminal navigation
