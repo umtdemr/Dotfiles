@@ -1,4 +1,4 @@
-![Terminal](./assets/terminal.jpeg)
+![Terminal](./assets/terminal.png)
 # Mediumgoal's Dotfiles
 
 This is mediumgoal's (umtdemr) terminal setup. 
