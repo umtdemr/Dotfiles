@@ -4,7 +4,7 @@ if not status_ok then
 end
 
 catppuccin.setup({
-  transparent_background = true,
+  transparent_background = false,
 })
 
 vim.cmd [[
