@@ -1,5 +1,5 @@
 return {
-	settings = {
+	lua_ls = {
 
 		Lua = {
 			diagnostics = {
@@ -10,6 +10,8 @@ return {
 					[vim.fn.expand("$VIMRUNTIME/lua")] = true,
 					[vim.fn.stdpath("config") .. "/lua"] = true,
 				},
+				workspace = { checkThirdParty = false },
+				telemetry = { enable = false },
 			},
 		},
 	},
