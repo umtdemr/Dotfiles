@@ -1,14 +1,14 @@
 ![Terminal](./assets/terminal.png)
-# Mediumgoal's Dotfiles
+# umtdemr's Dotfiles
 
-This is mediumgoal's (umtdemr) terminal setup. 
+This is umtdemr's terminal setup. 
 
-Do not use my settings blindly. Only do it if you know what you do.
+Do not use my settings blindly. Only do it if you know what you are doing.
 
 
 ## Content
 
-This setup including:
+This setup includes:
 
 * Tmux
 * Zsh
@@ -17,7 +17,7 @@ This setup including:
 ## Terminal
 
 
-In macos, I've started to use [iTerm2](https://iterm2.com/ "iTerm2's official page") instead of [alacritty](https://github.com/alacritty/alacritty "Alacrity's github page"). But I suggest alacritty if you are using linux based operation systems.
+In Macos, I've started to use [iTerm2](https://iterm2.com/ "iTerm2's official page") instead of [alacritty](https://github.com/alacritty/alacritty "Alacrity's github page"). But I suggest alacritty if you are using linux based operation systems.
 
 * Terminal: iTerm2
 * Color scheme: Solarized Dark
