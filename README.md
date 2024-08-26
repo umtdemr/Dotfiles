@@ -3,24 +3,19 @@
 
 This is umtdemr's terminal setup. 
 
-Do not use my settings blindly. Only do it if you know what you are doing.
-
-
 ## Content
 
 This setup includes:
 
-* Tmux
 * Zsh
 * Neovim
+* WezTerm
 
 ## Terminal
 
+In Macos, I've started to use [WezTerm](https://wezfurlong.org/wezterm/index.html "Wez's Terminal Emulator") over [alacritty](https://github.com/alacritty/alacritty "Alacrity's github page") and [iTerm2](https://iterm2.com/index.html). I wrote [a blog post](https://umitde.com/blog/i-switched-to-wezterm) about my reasons for this change.
 
-In Macos, I've started to use [iTerm2](https://iterm2.com/ "iTerm2's official page") instead of [alacritty](https://github.com/alacritty/alacritty "Alacrity's github page"). But I suggest alacritty if you are using linux based operation systems.
-
-* Terminal: iTerm2
-* Color scheme: Solarized Dark
+* Terminal: WezTerm
 * Shell: ZSH
 
 ## Neovim
@@ -32,5 +27,5 @@ I'm using nightly neo vim with [LSP](https://github.com/neovim/nvim-lspconfig) f
 
 ## ZSH
 
-* Theme: gianu 🤟
+* Theme: gianu
 * Additional plugins: zsh-autosuggestions, zsh-syntax-highlighting
