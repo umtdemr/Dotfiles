@@ -13,7 +13,7 @@ This setup includes:
 
 ## Terminal
 
-In Macos, I've started to use [WezTerm](https://wezfurlong.org/wezterm/index.html "Wez's Terminal Emulator") over [alacritty](https://github.com/alacritty/alacritty "Alacrity's github page") and [iTerm2](https://iterm2.com/index.html). I wrote [a blog post](https://umitde.com/blog/i-switched-to-wezterm) about my reasons for this change.
+I've started to use [WezTerm](https://wezfurlong.org/wezterm/index.html "Wez's Terminal Emulator") over [alacritty](https://github.com/alacritty/alacritty "Alacrity's github page") and [iTerm2](https://iterm2.com/index.html). I wrote [a blog post](https://umitde.com/blog/i-switched-to-wezterm) about my reasons for this change.
 
 * Terminal: WezTerm
 * Shell: ZSH
@@ -22,7 +22,7 @@ In Macos, I've started to use [WezTerm](https://wezfurlong.org/wezterm/index.htm
 
 ![Neovim preview](./assets/neovim.png)
 
-I'm using nightly neo vim with [LSP](https://github.com/neovim/nvim-lspconfig) features. For more information about my neovim configuration please check out [neovim folder](https://github.com/umtdemr/Dotfiles/tree/master/.config/nvim)
+I'm using [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) with [LSP](https://github.com/neovim/nvim-lspconfig) features. For more information about the neovim configuration I use, please check out [neovim folder](https://github.com/umtdemr/Dotfiles/tree/master/.config/nvim)
 
 
 ## ZSH
