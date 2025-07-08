@@ -756,6 +756,7 @@ require('lazy').setup({
         javascript = { 'prettier' },
         typescriptreact = { 'prettier' },
         javascriptreact = { 'prettier' },
+        go = { 'gofmt', 'goimports' },
       },
     },
   },
