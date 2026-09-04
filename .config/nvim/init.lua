@@ -677,6 +677,9 @@ require('lazy').setup({
             },
           },
         },
+        cssls = {
+          capabilities = capabilities,
+        },
       }
 
       -- Ensure the servers and tools above are installed
@@ -756,6 +759,7 @@ require('lazy').setup({
         javascript = { 'prettier' },
         typescriptreact = { 'prettier' },
         javascriptreact = { 'prettier' },
+        scss = { 'prettier' },
         go = { 'gofmt', 'goimports' },
       },
     },
@@ -938,7 +942,7 @@ require('lazy').setup({
     main = 'nvim-treesitter.configs', -- Sets main module to use for opts
     -- [[ Configure Treesitter ]] See `:help nvim-treesitter`
     opts = {
-      ensure_installed = { 'bash', 'c', 'diff', 'html', 'lua', 'luadoc', 'markdown', 'markdown_inline', 'query', 'vim', 'vimdoc', 'go', 'typescript' },
+      ensure_installed = { 'bash', 'c', 'diff', 'html', 'lua', 'luadoc', 'markdown', 'markdown_inline', 'query', 'vim', 'vimdoc', 'go', 'typescript', 'css' },
       -- Autoinstall languages that are not installed
       auto_install = true,
       highlight = {
