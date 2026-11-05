@@ -1,0 +1,24 @@
+# Ported from ~/.config/wezterm/wezterm.lua
+# Splits, tabs, leader and status bar live in ~/.config/tmux/tmux.conf
+
+# Start tmux, attaching to the "main" session (wezterm default_workspace)
+command = tmux new-session -A -s main
+
+# Appearance
+theme = poimandres
+background-opacity = 1
+font-family = JetBrains Mono
+font-style = Medium
+font-size = 12
+window-height = 35
+window-width = 135
+
+# tmux draws the tab bar
+gtk-tabs-location = hidden
+
+# No GTK header bar (menu/tab buttons)
+gtk-titlebar = false
+
+keybind = ctrl+shift+r=reload_config
+keybind = ctrl+minus=decrease_font_size:1
+keybind = ctrl+zero=reset_font_size
