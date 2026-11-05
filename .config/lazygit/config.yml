@@ -1,0 +1,4 @@
+# Open files in the parent Neovim when lazygit runs inside it (e.g. via lazygit.nvim),
+# otherwise start a new nvim.
+os:
+  editPreset: 'nvim-remote'
